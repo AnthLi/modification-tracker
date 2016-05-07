@@ -1,7 +1,5 @@
 # CS396 - Independent Study - Prof. Tim Richards
 
-----------
-
 ### What Should Be Included
 
   - `bigbrother.go`
@@ -14,8 +12,6 @@
   - `README.md`
   - `snapshot.go`
   - `utils.go`
-
-----------
 
 ### Brief Overview
 
