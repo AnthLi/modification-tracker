@@ -1,0 +1,14 @@
+# Class that the assignment belongs to and the name of the assignment.
+Class = "COMPSCI 396"
+Assignment = "Live Coding Assistant"
+
+# Specific directories to for the watcher to watch.
+# If none are specified, it watches entire directory where the program lies.
+# If there is a directory specified that does not exist, the watcher skips it.
+# If all specified directories do not exist, the watcher resorts to watching
+# the entire directory.
+Directories = []
+
+# The database connection string for the watcher to use to connect to the
+# database.
+ConnStr = "mongodb://admin:admin@ds011830.mlab.com:11830/cs396"
